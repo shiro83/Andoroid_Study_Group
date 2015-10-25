@@ -29,6 +29,7 @@ Andoroid勉強会の企画を練る
 
 
 ## 当日の進め方
+[issues](https://github.com/shiro83/Andoroid_Study_Group/issues)
 
 ## 参加前に準備して欲しいこと
 
