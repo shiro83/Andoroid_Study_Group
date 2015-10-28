@@ -35,7 +35,7 @@ Andoroid勉強会の企画を練る
 問題点
 * 当日のどのように進めるか?  
 　今のところの案として「ウチの子をアプリで笑わせた人が優勝」がある  
-　=>　[issues#1](https://github.com/shiro83/Andoroid_Study_Group/issues)
+　=>　[issues#1](https://github.com/shiro83/Andoroid_Study_Group/issues1)
 * 質問などの会話をどうするか？  
 　chatworkが使いやすかったがアカウントを取得しないといけない  
 　=>　[issues#2](https://github.com/shiro83/Andoroid_Study_Group/issues/2)
