@@ -42,7 +42,7 @@ Andoroid勉強会の企画を練る
 
 * MacとWindows、OSの違いをどうするか？  
 　Windowsまで手が回らないので、当面はMacのみにしたい  
-
+　=>　[issues#4](https://github.com/shiro83/Andoroid_Study_Group/issues/4)
 
 ## 参加前に準備して欲しいこと
 環境構築など
@@ -56,7 +56,7 @@ Andoroid勉強会の企画を練る
 
 問題点  
 * どうするか？  
-
+　=>　[issues#5](https://github.com/shiro83/Andoroid_Study_Group/issues/5)
   
 
 
