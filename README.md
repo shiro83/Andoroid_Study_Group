@@ -13,6 +13,7 @@ Andoroid勉強会の企画を練る
 ## 場所  
 [Connecting The Dots](https://dots.bz/)  
 今までの反省を生かし、合格点が出せる場所  
+　=>　[issues#7](https://github.com/shiro83/Andoroid_Study_Group/issues/7)
   
 過去の場所  
 [PoRTAL](http://www.hituji.jp/portal/guide/trial.html)  
@@ -49,7 +50,7 @@ Andoroid勉強会の企画を練る
 
 問題点
 * 環境は事前に構築して貰うか、するとしたら手順書などはどうするか？  
-　=> 
+　=>　[issues#8](https://github.com/shiro83/Andoroid_Study_Group/issues/8)
 
 ## 勉強会のログの残し方  
 詰まったことや解決したこと、成果物などの記録を残す必要がある。  
